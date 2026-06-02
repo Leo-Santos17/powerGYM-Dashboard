@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: ' https://api-powergym.onrender.com/',
+        target: 'https://api-powergym.onrender.com/',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '')
       }
