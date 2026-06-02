@@ -1,0 +1,34 @@
+[
+  {
+    "nome": "Ana Cu",
+    "probabilidade": 0.82
+  },
+  {
+    "nome": "Claudio Ferreira",
+    "probabilidade": 0.22
+  },
+  {
+    "nome": "Fernando Costa",
+    "probabilidade": 0.92
+  },
+  {
+    "nome": "Renan Santos",
+    "probabilidade": 0.05
+  },
+  {
+    "nome": "Juliana Lima",
+    "probabilidade": 0.65
+  },
+  {
+    "nome": "Marcos Souza",
+    "probabilidade": 0.45
+  },
+  {
+    "nome": "Beatriz Oliveira",
+    "probabilidade": 0.12
+  },
+  {
+    "nome": "Ricardo Gomes",
+    "probabilidade": 0.78
+  }
+]
